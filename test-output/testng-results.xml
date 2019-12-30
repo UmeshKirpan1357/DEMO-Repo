@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29990" started-at="2019-12-27T12:58:26Z" finished-at="2019-12-27T12:58:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29990" started-at="2019-12-27T12:58:26Z" finished-at="2019-12-27T12:58:56Z">
+      <class name="com.crm.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1bce4f0a]" name="setUp" is-config="true" duration-ms="6700" started-at="2019-12-27T18:28:26Z" finished-at="2019-12-27T18:28:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginPageTitleTest()[pri:1, instance:com.crm.qa.testcases.LoginPageTest@1bce4f0a]" name="validateLoginPageTitleTest" duration-ms="109" started-at="2019-12-27T18:28:33Z" finished-at="2019-12-27T18:28:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1bce4f0a]" name="tearDown" is-config="true" duration-ms="990" started-at="2019-12-27T18:28:33Z" finished-at="2019-12-27T18:28:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1bce4f0a]" name="setUp" is-config="true" duration-ms="5611" started-at="2019-12-27T18:28:34Z" finished-at="2019-12-27T18:28:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCRMLogoImageTest()[pri:2, instance:com.crm.qa.testcases.LoginPageTest@1bce4f0a]" name="validateCRMLogoImageTest" duration-ms="140" started-at="2019-12-27T18:28:40Z" finished-at="2019-12-27T18:28:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCRMLogoImageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1bce4f0a]" name="tearDown" is-config="true" duration-ms="620" started-at="2019-12-27T18:28:40Z" finished-at="2019-12-27T18:28:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1bce4f0a]" name="setUp" is-config="true" duration-ms="5582" started-at="2019-12-27T18:28:40Z" finished-at="2019-12-27T18:28:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginButtonTest()[pri:3, instance:com.crm.qa.testcases.LoginPageTest@1bce4f0a]" name="validateLoginButtonTest" duration-ms="202" started-at="2019-12-27T18:28:46Z" finished-at="2019-12-27T18:28:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginButtonTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1bce4f0a]" name="tearDown" is-config="true" duration-ms="646" started-at="2019-12-27T18:28:46Z" finished-at="2019-12-27T18:28:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1bce4f0a]" name="setUp" is-config="true" duration-ms="5519" started-at="2019-12-27T18:28:47Z" finished-at="2019-12-27T18:28:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginButtonisClickableTest()[pri:4, instance:com.crm.qa.testcases.LoginPageTest@1bce4f0a]" name="validateLoginButtonisClickableTest" duration-ms="3198" started-at="2019-12-27T18:28:52Z" finished-at="2019-12-27T18:28:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginButtonisClickableTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1bce4f0a]" name="tearDown" is-config="true" duration-ms="651" started-at="2019-12-27T18:28:56Z" finished-at="2019-12-27T18:28:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
